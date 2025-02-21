@@ -17,6 +17,8 @@ public class Assignment {
         System.out.println("helloworld");
         System.out.println("Hello world again");
         System.out.println("Hello world again");
+        //Hello
+        System.out.print("Hello word , abc");
     }
     
 }
