@@ -8,6 +8,6 @@ package adt;
  *
  * @author jians
  */
-public class ListInterface {
+public class ListInterface<T> {
     
 }
